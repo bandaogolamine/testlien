@@ -1,0 +1,39 @@
+.tab{
+    position: relative;
+    left: 35%;
+    color: white;
+  top: -50px;
+    font-size:xx-large;
+    text-decoration: underline;
+}
+table{
+    top: -20px;  
+
+    display: flex;
+    justify-content: center; /* Centers items horizontally */
+    align-items: center;
+}
+.com{
+    position: relative;
+    
+    left: 14%;
+    top: 15px;
+
+}
+a{
+    position: relative;
+    
+    left: 18%;
+    top: -15px;
+
+}
+
+
+
+
+
+@media screen and (min-width: 430px){
+
+
+}
+
